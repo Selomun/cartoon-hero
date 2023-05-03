@@ -1,0 +1,88 @@
+body{ 
+    margin: 0;
+    font-family:'Franklin Gothic Medium';
+    font-size: 20px;
+    
+    
+    
+    }
+
+
+header{
+    background-color: pink;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Lobster Two', cursive;
+    
+
+      
+}
+header h1{
+    color: red;
+    
+     font-size: 60px;
+     line-height: 30px;
+}   
+ h1.h2{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    
+}
+
+header img{
+    border-radius: 500px;
+    border:20px solid #b2cb9d
+
+}
+main {
+    max-width: 800px;
+    margin:0 auto;
+    padding:0 30px;
+    
+} 
+main img{
+    max-width: 100%;
+    
+}
+h2{
+     color:blueviolet
+}
+a{
+    color: red;
+
+}
+a:hover{
+    color: black;
+    background-color: aqua;
+}
+footer{
+    background-color: red;
+    text-align: center;
+    padding: 25px;
+}
+
+footer p{
+    margin: 0;
+
+    
+}
+ footer a{
+    color:black
+ }
+
+  footer a:hover{
+    opacity: .5;
+    background-color:transparent
+  }
+   
+p.caption{
+       color: #9999;
+       margin-top:0;
+       font-style:italic;
+       margin:0;
+ }
+
+
+
+
